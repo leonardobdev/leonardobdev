@@ -19,7 +19,7 @@
 [<img src="icons/mysql.svg" width="15">]()
 [<img src="icons/nodedotjs.svg" width="15">]()
 [<img src="icons/mongodb.svg" width="15">]()
-[<img src="icons/javascript.svg" width="15">]()
+<!--- [<img src="icons/java.svg" width="15">]() --->
 [<img src="icons/c.svg" width="15">]()
 [<img src="icons/cplusplus.svg" width="15">]()
 [<img src="icons/python.svg" width="15">]()
