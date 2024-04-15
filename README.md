@@ -11,7 +11,7 @@
 +                                                                                                                      
 +                                                                                                                      
 ```
-[<img src="icons/markdown.svg" width="15">]()
+[<img src="icons/markdown.svg">]()
 [<img src="icons/html5.svg" width="15">]()
 [<img src="icons/css3.svg" width="15">]()
 [<img src="icons/javascript.svg" width="15">]()
