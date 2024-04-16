@@ -10,7 +10,7 @@
 ![](icons/mysql.svg)
 ![](icons/nodedotjs.svg)
 ![](icons/mongodb.svg)
-![](icons/javascript.svg)
+![](icons/java.svg)
 ![](icons/c.svg)
 ![](icons/cplusplus.svg)
 ![](icons/python.svg)
