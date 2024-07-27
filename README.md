@@ -1,5 +1,5 @@
 ```difF
-+| _  _ ._  _..__| _ |_   _| _    
++| _  _ ._  _..__| _ |_   _| _   
 +|(/_(_)| |(_||(_|(_)|_)o(_|(/_\/
 ```
 [![Markdown](icons/markdown.svg "Markdown")](https://daringfireball.net/projects/markdown "Markdown")
